@@ -1,5 +1,5 @@
 body {
-  background: lightcyan;
+  background: whitesmoke;
   width: 800px;
   margin: auto;
 }
@@ -10,7 +10,19 @@ h1 {
 }
 
 p {
+  padding: 10px;
+}
+
+.first-comment {
+  text-align: center;
+}
+
+.index-img {
+  text-align: center;
+}
+
+.boarder {
   color: gray;
   border: 1px solid gray;
-  padding: 10px;
+  margin-bottom: 10px;
 }
